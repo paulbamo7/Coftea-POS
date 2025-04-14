@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right,#C1A892, #5B4F45);
+    padding: 50px;
+}
+
+.container {
+    border: 5px solid rgb(75 70 74);
+    font: 1.2em sans-serif;
+    margin: auto;
+
+    padding: 60px;
+    height: 100%;
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: #C1A892;
+  }
+
+.container img {
+    margin: auto;
+    display: flex;
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.container input {
+    display: block;
+    width: 100%;
+    background-color: #5B4F45;
+}
+
+.container a {
+    margin: auto;
+    display: flex;
+    color: #5B4F45;
+    padding-top: 200px;
+}
