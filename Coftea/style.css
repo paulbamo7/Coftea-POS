@@ -32,7 +32,6 @@ body {
 }
 
 .container a {
-    margin: auto;
     display: flex;
     color: #5B4F45;
     padding-top: 200px;
